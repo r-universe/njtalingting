@@ -1,0 +1,10 @@
+{
+  "id": 124942505,
+  "created_at": "2026-04-18T08:17:44.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["njtalingting-backup", "njtalingting.r-universe.dev"]
+}
